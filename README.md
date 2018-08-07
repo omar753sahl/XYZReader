@@ -1,3 +1,3 @@
-## XYZ Reader
+# XYZ Reader
 
-# Sixth project for Udacity's Android Nanodegree (Google Developer Scholarship).
+Sixth project for Udacity's Android Nanodegree (Google Developer Scholarship).
