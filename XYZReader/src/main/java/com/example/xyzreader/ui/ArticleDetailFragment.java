@@ -162,7 +162,7 @@ public class ArticleDetailFragment extends Fragment implements LoaderManager.Loa
                 public void onClick(View view) {
                     startActivity(Intent.createChooser(ShareCompat.IntentBuilder.from(getActivity())
                             .setType("text/plain")
-                            .setText(body)
+                            .setText(title)
                             .getIntent(), getString(R.string.action_share)));
                 }
             });
