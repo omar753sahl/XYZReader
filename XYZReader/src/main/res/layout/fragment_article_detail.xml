@@ -109,7 +109,7 @@
         android:clickable="true"
         android:contentDescription="@string/action_share"
         android:focusable="true"
-        app:elevation="@dimen/fab_margin"
+        app:elevation="@dimen/fab_elevation"
         app:fabSize="normal"
         app:layout_anchor="@id/app_bar"
         app:layout_anchorGravity="bottom|right|end"
